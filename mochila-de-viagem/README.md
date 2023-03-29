@@ -1,1 +1,7 @@
-# alura-armazenando-na-web
+# Armazenando-no-Navegador
+
+Interaja com a página e com LocalStorage
+Crie objetos no JavaScript
+Registre dados no LocalStorage
+Implemente páginas WEB que armazenam dados
+Entenda o comportamento do LocalStorage
