@@ -1,7 +1,6 @@
 # Armazenando-no-Navegador
 
-Interaja com a página e com LocalStorage
-Crie objetos no JavaScript
-Registre dados no LocalStorage
-Implemente páginas WEB que armazenam dados
-Entenda o comportamento do LocalStorage
+Página e com LocalStorage
+Objetos no JavaScript
+Registra dados no LocalStorage
+Implementa páginas WEB que armazenam dados
